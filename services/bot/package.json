@@ -1,0 +1,13 @@
+{
+  "name": "@ex-plugins/bot",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "peerDependencies": {
+    "@ex-plugins/config": "*",
+    "@ex-plugins/constants": "*",
+    "@ex-plugins/db": "*"
+  }
+}

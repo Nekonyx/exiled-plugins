@@ -1,0 +1,7 @@
+{
+  "name": "@ex-plugins/constants",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts"
+}

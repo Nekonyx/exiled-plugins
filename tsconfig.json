@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.build.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@ex-plugins/*": [
+        "services/*/src",
+        "shared/*/src"
+      ]
+    }
+  }
+}

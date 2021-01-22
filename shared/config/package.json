@@ -1,0 +1,11 @@
+{
+  "name": "@ex-plugins/config",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "yaml": "^1.10.0"
+  }
+}

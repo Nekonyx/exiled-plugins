@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "api",
+      "script": "./services/api/build/index.js"
+    },
+    {
+      "name": "bot",
+      "script": "./services/bot/build/index.js"
+    },
+    {
+      "name": "web",
+      "script": "./services/web/build/index.js"
+    }
+  ]
+}
